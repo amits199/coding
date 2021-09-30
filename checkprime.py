@@ -13,5 +13,5 @@ else:
     print("wrong input")
 
 else:
-    print("no number is not prime prime")
+    print("No number is not prime prime")
 
