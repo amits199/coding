@@ -12,6 +12,8 @@ elif BMI==25:
 
 elif BMI>25:
     print("You are Over Weight");
+    
+print("According to you condition choose a diet plan")
 
 
 
